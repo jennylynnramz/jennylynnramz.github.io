@@ -1,0 +1,58 @@
+h1 {
+
+}
+/*  */
+h2 {
+
+}
+/*  */
+h3 {
+
+}
+/*  */
+p {
+
+}
+/*  */
+
+.contact-info {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: maroon;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+.heading {
+    font-weight: bold;
+    font-style: unset;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: left;
+
+}
+
+.education-box {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.degree-info  {
+    text-align: center;
+}
+.degree-info h4 {
+    text-decoration: underline;
+    
+}
+
+.skills-box {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+
