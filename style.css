@@ -2,8 +2,14 @@
 
 body {
     background-color: black;
+    background-image: url("https://images-assets.nasa.gov/image/PIA03654/PIA03654~large.jpg");
 }
-
+.index-container {
+    background-image: image("/Photos/PIA03654_orig.jpg");
+}
+h2 {
+    color: honeydew;
+}
 .card {
     background-color: lavender;
 }
@@ -13,5 +19,8 @@ body {
 }
 
 .contact-box {
-    padding-top: 5%
+    padding-top: 5%;
+    color: gray;
+    text-align: center;
 }
+
