@@ -1,14 +1,14 @@
 
 
 body {
-    background-color: #ff8080;
+    background-color: #b5c6e0;
 }
 
 h2 {
     color: honeydew;
 }
 .card {
-    background-color: white;
+    background-color: #ebf4f5;
     width: 60rem;
 }
 .card-title {
@@ -35,4 +35,3 @@ h2 {
 .row {
     padding-bottom: 50px;
 }
-
