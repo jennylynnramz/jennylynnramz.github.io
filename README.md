@@ -1,6 +1,6 @@
 # jennylynnramz.github.io
 
-This is source code of my portfolio website hosted here - [https://jennylynnramz.github.io](https://jennylynnramz.github.io)
+This is source code of my portfolio website hosted here - [https://jennylynnramz.com/](http://jennylynnramz.com)
 
 ## Built With
 
