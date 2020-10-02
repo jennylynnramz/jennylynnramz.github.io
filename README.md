@@ -1,6 +1,6 @@
 # jennylynnramz.github.io
 
-This is source code of my portfolio website hosted here - [https://jennylynnramz.com/](http://jennylynnramz.com)
+Check out my portfolio! -> [https://jennylynnramz.com/](http://jennylynnramz.com)
 
 ## Built With
 
@@ -11,6 +11,7 @@ This is source code of my portfolio website hosted here - [https://jennylynnramz
 ## Authors
 
 * **Jennifer Ramsey** - [jennylynnramz](https://github.com/jennylynnramz)
+* Send me a connect! - [Linkedin](https://www.linkedin.com/in/jennylynnramz)
 
 
 ## License
