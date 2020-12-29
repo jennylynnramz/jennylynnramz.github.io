@@ -1,4 +1,15 @@
+.navbar-color {
+    background-color: #5f009a;
 
+}
+
+.navbar-brand {
+    color: #b5c6e0;
+}
+
+.nav-link {
+    color: #b5c6e0;
+}
 
 body {
     background-color: #b5c6e0;
@@ -9,10 +20,11 @@ h2 {
 }
 .card {
     background-color: #ebf4f5;
-    width: 60rem;
+    width: 90%;
 }
 .card-title {
     text-align: center;
+    color: #5f009a;
 }
 .card-text {
     text-align: center;
